@@ -6,4 +6,6 @@ In this work, we design a novel fusion pyramid that merge the dilated pyramid wi
 
 The designed fusion pyramid codes are in files dudpn/DPN_fs.py and dudpn/DPN_Mergebn.py
 
+The performance of the testing image is in test/img_inferred_d2_this_repo_0.jpg
+
 Referring to zylo117  <https://github.com/zylo117/Yet-Another-Efficient-Pytorch>, we compile the codes of our proposed structure DUDPN and take the DPN into the backbone.py.
